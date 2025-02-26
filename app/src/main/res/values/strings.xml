@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+
+    <string name="TArneMuseler">Cristo Redentor, Rio de Janeiro, Brasil</string>
+    <string name="ArneMuseler">Arne Müseler (2022)</string>
+
+    <string name="TLeonardoDaVinci">Mona Lisa, by Leonardo da Vinci</string>
+    <string name="LeonardoDaVinci">Leonardo Da Vinci (1503)</string>
+
+    <string name="TGoldenGate">The Golden Gate Bridge in San Francisco, California, as seen from Battery East</string>
+    <string name="GoldenGate">Frank Schulenburg</string>
+
+
+
+
+</resources>
